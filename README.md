@@ -16,4 +16,3 @@ Happy coding! 🚀
 
 - 🎓 Master's Thesis: [University quality as a predictor of perceived future employability of senior university students](https://open.metu.edu.tr/handle/11511/101212)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=BuseKaylan)
