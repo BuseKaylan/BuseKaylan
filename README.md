@@ -4,7 +4,7 @@ I'm a data science enthusiast with a unique career journey. I graduated from Mid
 
 During my thesis research, I conducted data collection and analysis processes across three different universities, honing my interest in statistics. This journey led me to learn the Python programming language and delve into the realms of data analysis and data science.
 
-In recent times, I participated in a Data Science Bootcamp organized by the Istanbul Metropolitan Municipality Data Laboratory. Our team's project, focusing on the analysis of disaster and emergency gathering areas, was selected as the top project among ten groups.
+In recent times, I participated in a Data Science Bootcamp organized by the IBB Data Laboratory. Our team's project, focusing on the analysis of disaster and emergency gathering areas, was selected as the top project among ten groups.
 
 Motivated to enhance my skills further, I recently enrolled in the Big Data and Business Analytics Master's program at Istanbul Technical University. Currently completing my first semester, I am committed to continuous learning, skill development, and exploring new projects in the fields of data science and machine learning.
 
